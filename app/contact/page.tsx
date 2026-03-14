@@ -1,5 +1,5 @@
-import { Phone, Mail, MapPin, MessageCircle, Clock } from "lucide-react";
 import ContactForm from "@/components/ContactForm";
+import { Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -147,7 +147,7 @@ export default function ContactPage() {
                 Send a Message
               </h2>
               <p className="text-[#697892] text-sm mb-8">
-                Fill out the form below and we'll get back to you as soon as possible. For instant response, use WhatsApp.
+                Fill out the form below and we will get back to you as soon as possible. For instant response, use WhatsApp.
               </p>
               <ContactForm />
             </div>

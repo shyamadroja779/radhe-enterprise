@@ -80,7 +80,7 @@ export default function AboutPage() {
                 We supply a comprehensive range of equipment — from simple hand pallet trucks to sophisticated electric stackers, reach forklifts, and aerial work platforms. Every product in our catalog is carefully selected for its quality, reliability and value for money.
               </p>
               <p className="text-[#8896ac] leading-relaxed">
-                Our mission is to provide durable, efficient and cost-effective equipment for warehouses, factories and logistics operations. We're not just suppliers — we're partners in your operational success.
+                Our mission is to provide durable, efficient and cost-effective equipment for warehouses, factories and logistics operations. We are not just suppliers — we are partners in your operational success.
               </p>
             </div>
 
